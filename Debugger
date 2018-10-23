@@ -1,0 +1,8 @@
+import time
+print("This is Debugger")
+time.sleep(2)
+print("Created by Michael Dierkes and Vaughn Leverich")
+time.sleep(2)
+print("This debugger is soley deigned for the Interactive Art Display. It won't work with any other files.")
+time.sleep(2)
+print("This system works by checking GitHub's files against an online checksum.")
